@@ -39,6 +39,10 @@ Tools Used
 - GitHub
 - AWS EC2
 
+- ### OSI & TCP/IP Diagram
+
+![OSI Model](Networking OSI MODEL.drawio.png)
+
 Author
 
 Sumant Kumar
