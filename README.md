@@ -41,7 +41,7 @@ Tools Used
 
 - ### OSI & TCP/IP Diagram
 
-![OSI Model](Networking OSI MODEL.drawio.png)
+![OSI Model](Networking%20OSI%20MODEL.drawio.png)
 
 Author
 
