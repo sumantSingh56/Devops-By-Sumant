@@ -1,5 +1,4 @@
 # DevOps Projects
-# DevOps Projects
 
 ## Day 6 - Personal Portfolio Website
 
