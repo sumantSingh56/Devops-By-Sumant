@@ -1,1 +1,9 @@
-
+pwd
+ls
+cd Devops
+mkdir Devops-web
+touch devops.txt
+hostname
+cp
+mv
+rm
