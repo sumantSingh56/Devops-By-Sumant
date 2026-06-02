@@ -1,3 +1,10 @@
+pwd        -> current directory dekhne ke liye
+ls         -> files aur folders list karne ke liye
+cd         -> directory change karne ke liye
+mkdir      -> new directory banane ke liye
+touch      -> file create karne ke liye
+cp         -> file copy karne ke liye
+rm         -> file delete karne ke liye
 pwd
 ls
 cd Devops
@@ -7,3 +14,32 @@ hostname
 cp
 mv
 rm
+pwd
+ls
+cd Devops-wev/
+ls
+cd ~
+sudo cp /home/ubuntu/Devops-wev/* /var/www/html/
+
+pwd
+cd protfolio/
+ls
+
+cd ~
+cd Devops
+ls
+
+cat commanda.txt
+
+cd ~
+cd /var/www/html/
+ls
+
+cd ~
+sudo rm /var/www/html/index.html
+
+cd /var/www/html/
+ls
+
+cd ~
+sudo cp /home/ubuntu/protfolio/* /var/www/html/
